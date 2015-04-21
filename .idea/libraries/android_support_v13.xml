@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="android-support-v13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/android-support-v13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Android/Sdk/tools/apps/SdkController/src" />
+      <root url="file://$USER_HOME$/Android/Sdk/tools/proguard/examples/annotations/src" />
+      <root url="file://$USER_HOME$/Android/Sdk/tools/proguard/examples/annotations/examples" />
+      <root url="file://$USER_HOME$/Android/Sdk/sources/android-21" />
+    </SOURCES>
+  </library>
+</component>
